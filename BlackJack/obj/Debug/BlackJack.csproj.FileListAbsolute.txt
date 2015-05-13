@@ -1,0 +1,2 @@
+C:\Users\Josh\Dropbox\CSE240\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Josh\Dropbox\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
