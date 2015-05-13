@@ -8,6 +8,7 @@ namespace BlackJack
 {
     class Card
     {
+<<<<<<< HEAD
         //fields
         public Dictionary<string, int> FACES = new Dictionary<string, int>();
         public string suit;
@@ -21,5 +22,7 @@ namespace BlackJack
             this.faceI = face1;
             this.suit = suit;
         }   
+=======
+>>>>>>> b02a0ff6a60b25f6a467f138db47b97520da189d
     }
 }

@@ -8,6 +8,7 @@ namespace BlackJack
 {
     class Hand
     {
+<<<<<<< HEAD
         List<Card> hand = new List<Card>();
         int value;
         
@@ -49,5 +50,7 @@ namespace BlackJack
         
 
 
+=======
+>>>>>>> b02a0ff6a60b25f6a467f138db47b97520da189d
     }
 }
